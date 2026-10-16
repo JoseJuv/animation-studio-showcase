@@ -6,10 +6,10 @@
 
 > This repository is a **showcase**: screenshots, a demo video and how the system works.
 
-**▶ Demo:** [`video/welcome-video-720p.mp4`](video/welcome-video-720p.mp4) – a two-minute video about the tool,
-made with the tool and narrated by me in its recording booth.
+[![Six beats from the demo video – click to watch on YouTube](images/welcome-video.png)](https://youtu.be/dKXGtyppaCE)
 
-![Six beats from the demo video](images/welcome-video.png)
+**[▶ Watch the demo on YouTube (2 min)](https://youtu.be/dKXGtyppaCE)** – a video about the tool, made with the tool
+and narrated by me in its recording booth.
 
 ## What it does
 
@@ -87,7 +87,7 @@ flowchart LR
 
 | Video | Length | Notes |
 |---|---|---|
-| Welcome video ([demo](video/welcome-video-720p.mp4)) | 1:59 | 15 beats, pixel style, narrated in the booth, made entirely in the Studio |
+| Welcome video ([watch on YouTube](https://youtu.be/dKXGtyppaCE)) | 1:59 | 15 beats, pixel style, narrated in the booth, made entirely in the Studio |
 | "Inside Animation Studio" explainer | 7:05 | 33 beats, flat-vector style, scratch voice |
 | The Lighthouse Keeper | 0:47 | a short story rendered in both styles from one storyboard |
 
